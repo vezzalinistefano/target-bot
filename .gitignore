@@ -39,3 +39,6 @@ pip-wheel-metadata
 /poetry.toml
 
 poetry/core/*
+
+phrases.json
+.env
